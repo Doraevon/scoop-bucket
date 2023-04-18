@@ -5,7 +5,7 @@
     "license": "GPL-1.0-or-later|Artistic-1.0-Perl",
     "architecture": {
         "64bit": {
-            "url": "https://strawberryperl.com/download/5.30.3.1/strawberry-perl-5.33.3.1-64bit-portable.zip",
+            "url": "https://strawberryperl.com/download/5.30.3.1/strawberry-perl-5.30.3.1-64bit-portable.zip",
             "hash": "sha1:487a15ab60bdc41ed72626b6b4fb260d755d4a98"
         },
         "32bit": {
