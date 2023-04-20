@@ -1,14 +1,14 @@
 # Scoop Bucket - Doraevon/my-bucket
 
 <!-- Uncomment the following line after replacing placeholders -->
-[![Tests](https://github.com/Doraevon/my-scoop-bucket/actions/workflows/ci.yml/badge.svg)](https://github.com/Doraevon/my-scoop-bucket/actions/workflows/ci.yml) [![Excavator](https://github.com/Doraevon/my-scoop-bucket/actions/workflows/excavator.yml/badge.svg)](https://github.com/Doraevon/my-scoop-bucket/actions/workflows/excavator.yml)
+[![Tests](https://github.com/Doraevon/scoop-bucket/actions/workflows/ci.yml/badge.svg)](https://github.com/Doraevon/scoop-bucket/actions/workflows/ci.yml) [![Excavator](https://github.com/Doraevon/scoop-bucket/actions/workflows/excavator.yml/badge.svg)](https://github.com/Doraevon/scoop-bucket/actions/workflows/excavator.yml)
 
 Template bucket for [Scoop](https://scoop.sh), the Windows command-line installer.
 
 How do I install these manifests?
 ---------------------------------
 
-To add this bucket to your local scoop install, run `scoop bucket add <local-bucket-name> https://github.com/Doraevon/my-scoop-bucket`.
+To add this bucket to your local scoop install, run `scoop bucket add doraevon https://github.com/Doraevon/scoop-bucket`.
 
 To install an app, do `scoop install <appname>`.
 
