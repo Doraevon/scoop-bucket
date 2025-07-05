@@ -1,14 +1,13 @@
-# Scoop Bucket - Doraevon/my-bucket
+# Scoop Bucket - ZMT-Creative/scoop-bucket
 
 <!-- Uncomment the following line after replacing placeholders -->
-[![Tests](https://github.com/Doraevon/scoop-bucket/actions/workflows/ci.yml/badge.svg)](https://github.com/Doraevon/scoop-bucket/actions/workflows/ci.yml) [![Excavator](https://github.com/Doraevon/scoop-bucket/actions/workflows/excavator.yml/badge.svg)](https://github.com/Doraevon/scoop-bucket/actions/workflows/excavator.yml)
+[![Tests](https://github.com/ZMT-Creative/scoop-bucket/actions/workflows/ci.yml/badge.svg)](https://github.com/ZMT-Creative/scoop-bucket/actions/workflows/ci.yml) [![Excavator](https://github.com/ZMT-Creative/scoop-bucket/actions/workflows/excavator.yml/badge.svg)](https://github.com/ZMT-Creative/scoop-bucket/actions/workflows/excavator.yml)
 
 Template bucket for [Scoop](https://scoop.sh), the Windows command-line installer.
 
-How do I install these manifests?
----------------------------------
+## How do I install these manifests?
 
-To add this bucket to your local scoop install, run `scoop bucket add doraevon https://github.com/Doraevon/scoop-bucket`.
+To add this bucket to your local scoop install, run `scoop bucket add zmtc https://github.com/ZMT-Creative/scoop-bucket`.
 
 To install an app, do `scoop install <appname>`.
 
